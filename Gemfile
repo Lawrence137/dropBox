@@ -51,3 +51,5 @@ gem 'activestorage', '~> 7.0', '>= 7.0.4.3'
 gem 'bundler-audit', '~> 0.9.1'
 
 gem 'brakeman', '~> 5.4', '>= 5.4.1'
+
+gem 'rubocop', '~> 1.50', '>= 1.50.2'

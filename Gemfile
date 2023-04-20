@@ -47,3 +47,5 @@ group :development do
 end
 
 gem 'activestorage', '~> 7.0', '>= 7.0.4.3'
+
+gem 'bundler-audit', '~> 0.9.1'
